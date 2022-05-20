@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objectAnimator xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="@integer/scale_duration">
+    <propertyValuesHolder
+        android:propertyName="scaleX"
+        android:valueFrom="1.4"
+        android:valueTo="1" />
+    <propertyValuesHolder
+        android:propertyName="scaleY"
+        android:valueFrom="1.4"
+        android:valueTo="1" />
+</objectAnimator>
